@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loukmane04&label=Profile%20views&color=0e75b6&style=flat" alt="loukmane04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loukmane04" alt="loukmane04" /></a> </p>
-
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **belmahnoufloukmane@gmail.com**
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loukmane04&show_icons=true&locale=en&layout=compact" alt="loukmane04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loukmane04&show_icons=true&locale=en" alt="loukmane04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loukmane04&" alt="loukmane04" /></p>
